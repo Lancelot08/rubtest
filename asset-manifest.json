@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/rubtest/static/js/main.a32dd810.chunk.js",
+    "main.js.map": "/rubtest/static/js/main.a32dd810.chunk.js.map",
+    "runtime-main.js": "/rubtest/static/js/runtime-main.1dd2cf30.js",
+    "runtime-main.js.map": "/rubtest/static/js/runtime-main.1dd2cf30.js.map",
+    "static/js/2.9de3b7df.chunk.js": "/rubtest/static/js/2.9de3b7df.chunk.js",
+    "static/js/2.9de3b7df.chunk.js.map": "/rubtest/static/js/2.9de3b7df.chunk.js.map",
+    "index.html": "/rubtest/index.html",
+    "static/js/2.9de3b7df.chunk.js.LICENSE.txt": "/rubtest/static/js/2.9de3b7df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dd2cf30.js",
+    "static/js/2.9de3b7df.chunk.js",
+    "static/js/main.a32dd810.chunk.js"
+  ]
+}
